@@ -4,6 +4,7 @@ https://www.geeksforgeeks.org/how-to-install-dlib-library-for-python-in-windows-
 
 
 About code:
+
 **os.path.splitext(cl) :its a method used to split the path name into pair of root and extension
 here we only accessing the filename 
 
